@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    width: 50%;
+    border: 2px solid green;
+    padding: 10px;
+  }
+
+
+
+
+.username,.password {
+
+
+    color: red;
+    width: 300px;
+    height: 30px;
+    margin: 8px;
+    padding: 10px;
+}
+
+
+.signbtn{
+    color: green;
+    margin: 8px;
+}
